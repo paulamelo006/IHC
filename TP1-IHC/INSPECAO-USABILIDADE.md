@@ -1,0 +1,25 @@
+# INTRODUÇÃO
+
+## INSPEÇÃO DE USABILIDADE
+
+### TESTE DE USABILIDADE
+
+## MARCADORES 
+- ITEM 1 
+- ITEM 2
+- ITEM 3
+- ITEM 4
+- ITEM 5
+
+## TABELAS
+|ID|LOCALIZAÇÃO|
+|--|-----------|
+|XX|YYYYYYYYYYY|
+|XX|YYYYYYYYYYY|
+|XX|YYYYYYYYYYY|
+
+## Negrito e Itálico
+**Usabilidade**
+
+_Usabilidade_
+
